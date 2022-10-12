@@ -82,6 +82,7 @@ Specialty "Information technologies and programming" | Faculty of Information Sy
 ---
 
 ### 👨‍💻 What can I do
-- 1
-- 2
-- 3
+- [Python | Telegram](https://github.com/sum-greg/testMyQiwiTelegramBot)
+- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoTestProject)
+- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoURLshortenerProject)
+- [Python | Django | HTML | Jinja | Bootstrap](https://github.com/sum-greg/blogTestProject)
