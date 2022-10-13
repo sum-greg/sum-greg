@@ -57,10 +57,14 @@ __WHATSAPP__: +7 (981) 752-58-51
 ---
 
 ### 📚 Education
+
+2022-2023 | __Netology__, Online learning
+
+Specialty "Information security specialist"
+
 2017-2021 | __ITMO University__, Saint Petersburg
 
 Specialty "Information technologies and programming" | Faculty of Information Systems | __Bachelor__
-
 
 ---
 
@@ -69,9 +73,9 @@ Specialty "Information technologies and programming" | Faculty of Information Sy
 | - | - | - | :-: |
 | 2022 | Sololearn | __Python for Data Science__ | [Link to sertificate](https://drive.google.com/file/d/1Amh3Waq04SqzGu29Zs9TSKBMHmBivxeS/view) |
 | 2022 | Sololearn | __Swift__ | [Link to sertificate](https://drive.google.com/file/d/1UMhfPk1fR8g_CSp_7ohYlIHfZPQtEjuN/view) |
-| 2022 | Нетология | __Git - version control system__ | [Link to sertificate](https://drive.google.com/file/d/1wJHi2VHPU6A6gC8P_HkJrnPQ7wV3h26C/view) |
-| 2022 | Нетология | __Data networks and security__ | [Link to sertificate](https://drive.google.com/file/d/1CfQHIk4_0XRkPIKJP1Bw-1P_oo6Cm7u4/view) |
-| 2022 | Нетология | __Fundamentals of information security__ | [Link to sertificate](https://drive.google.com/file/d/1HPJ3SC0yd5uwpjOy7hpDr0mf4tG8z-eT/view) |
+| 2022 | Netology | __Git - version control system__ | [Link to sertificate](https://drive.google.com/file/d/1wJHi2VHPU6A6gC8P_HkJrnPQ7wV3h26C/view) |
+| 2022 | Netology | __Data networks and security__ | [Link to sertificate](https://drive.google.com/file/d/1CfQHIk4_0XRkPIKJP1Bw-1P_oo6Cm7u4/view) |
+| 2022 | Netology | __Fundamentals of information security__ | [Link to sertificate](https://drive.google.com/file/d/1HPJ3SC0yd5uwpjOy7hpDr0mf4tG8z-eT/view) |
 | 2022 | Sololearn | __HTML__ | [Link to sertificate](https://drive.google.com/file/d/1X17a-UoX9qh4Kg1VW0yxK_7I3JIO7H4o/view) |
 | 2021 | Stepik | __JavaScript for beginners__ | [Link to sertificate](https://drive.google.com/file/d/1uSYJHLmVvWrMU4TAEXg3jW51dQNNlDh5/view) |
 | 2020 | Stepik | __Fundamentals of statistics__ | [Link to sertificate](https://drive.google.com/file/d/1h5hQyPd_vDPLcFe8lACfEyM2JaCcXzI5/view) |
