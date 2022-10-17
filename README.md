@@ -35,7 +35,7 @@ __WHATSAPP__: +7 (981) 752-58-51
   - SQLite, PostgreSQL
 - __Frameworks__: 
   - Django, Django REST Framework, 
-  - KitUI, SwiftUI
+  - UIKit, SwiftUI
 - __Testing tools__: 
   - PyTest, 
   - Selenium
