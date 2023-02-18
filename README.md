@@ -6,10 +6,9 @@
 
 # 👋 Hello!
 
-My name is __Grigory Sumlinsky__ (rus. Григорий Сумлинский). I have been a __Python developer__ for more than 2 years, and recently I have been developing in three more promising areas:
+My name is __Grigory Sumlinsky__ (rus. Григорий Сумлинский). I have been a __Python developer__ for more than 2 years, and recently I have been developing in two more promising areas:
 - __Data Science__, because I believe that we receive a huge amount of information every day, so we need specialists to structure and analyze big data.
 - __Swift development__, especially mobile applications, as I'm sure that this profession will not lose its relevance for many more years, because most of our lives we solve problems by using our smartphones.
-- __Information security__, as there are more and more cybercrimes every day, and, in turn, I want to create not only a useful products, but also a safe ones.
 
 ---
 
@@ -35,12 +34,12 @@ __WHATSAPP__: +7 (981) 752-58-51
   - SQLite, PostgreSQL
 - __Frameworks__: 
   - Django, Django REST Framework, 
-  - UIKit, SwiftUI
+  - UIKit and others
 - __Testing tools__: 
   - PyTest, 
   - Selenium
 - __Toolkit__: 
-  - PyCharm, DataGrip, WebStorm, XCode, 
+  - XCode, PyCharm, DataGrip, WebStorm, 
   - Docker, Postman, pgAdmin, Git
   - Parallels Desktop
 - __Data science__: 
@@ -71,6 +70,7 @@ Specialty "Information technologies and programming" | Faculty of Information Sy
 ### 🔖 Courses | Sertificates
 | YEAR | WHERE | WHAT | LINK |
 | - | - | - | :-: |
+| 2023 | SwiftBook | __Firebase, Core Data and others__ | --- |
 | 2022 | Sololearn | __Python for Data Science__ | [Link to sertificate](https://drive.google.com/file/d/1Amh3Waq04SqzGu29Zs9TSKBMHmBivxeS/view) |
 | 2022 | Sololearn | __Swift__ | [Link to sertificate](https://drive.google.com/file/d/1UMhfPk1fR8g_CSp_7ohYlIHfZPQtEjuN/view) |
 | 2022 | Netology | __Git - version control system__ | [Link to sertificate](https://drive.google.com/file/d/1wJHi2VHPU6A6gC8P_HkJrnPQ7wV3h26C/view) |
