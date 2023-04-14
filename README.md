@@ -86,6 +86,8 @@ Specialty "Information technologies and programming" | Faculty of Information Sy
 ---
 
 ### 👨‍💻 What can I do
+- [Swift | UIKit | Firebase](https://github.com/sum-greg/ChikChak-App/tree/main)
+
 - [Python | Telegram](https://github.com/sum-greg/testMyQiwiTelegramBot)
 - [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoTestProject)
 - [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoURLshortenerProject)
