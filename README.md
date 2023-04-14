@@ -22,6 +22,16 @@ __WHATSAPP__: +7 (981) 752-58-51
 
 ---
 
+### 👨‍💻 What can I do
+- [Swift | UIKit | Firebase](https://github.com/sum-greg/ChikChak-App/tree/main)
+
+- [Python | Telegram](https://github.com/sum-greg/testMyQiwiTelegramBot)
+- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoTestProject)
+- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoURLshortenerProject)
+- [Python | Django | HTML | Jinja | Bootstrap](https://github.com/sum-greg/blogTestProject)
+
+---
+
 ### 🥷 Skills
 
 - __Programming languages__: 
@@ -81,14 +91,3 @@ Specialty "Information technologies and programming" | Faculty of Information Sy
 | 2020 | Stepik | __Fundamentals of statistics__ | [Link to sertificate](https://drive.google.com/file/d/1h5hQyPd_vDPLcFe8lACfEyM2JaCcXzI5/view) |
 | 2020 | Stepik | __Programming in Python__ | [Link to sertificate](https://drive.google.com/file/d/1k8uOj12t9TXv8Mc00WBn8jQ7qCDK94Lg/view) |
 | 2020 | Stepik | __Test Automation with Selenium and Python__ | --- |
-
-
----
-
-### 👨‍💻 What can I do
-- [Swift | UIKit | Firebase](https://github.com/sum-greg/ChikChak-App/tree/main)
-
-- [Python | Telegram](https://github.com/sum-greg/testMyQiwiTelegramBot)
-- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoTestProject)
-- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoURLshortenerProject)
-- [Python | Django | HTML | Jinja | Bootstrap](https://github.com/sum-greg/blogTestProject)
