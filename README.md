@@ -7,8 +7,8 @@
 # 👋 Hello!
 
 My name is __Grigory Sumlinsky__ (rus. Григорий Сумлинский). I have been a __Python developer__ for more than 2 years, and recently I have been developing in two more promising areas:
-- __Data Science__, because I believe that we receive a huge amount of information every day, so we need specialists to structure and analyze big data.
 - __Swift development__, especially mobile applications, as I'm sure that this profession will not lose its relevance for many more years, because most of our lives we solve problems by using our smartphones.
+- __Data Science__, because I believe that we receive a huge amount of information every day, so we need specialists to structure and analyze big data.
 
 ---
 
