@@ -19,6 +19,7 @@ __EMAIL__: grishasumlinsky@gmail.com
 __WHATSAPP__: +7 (981) 752-58-51
 
 __iOS Developer's CV__: [here](https://drive.google.com/file/d/1l_2FNxh-QDOmqVd5-6RvS_nTV4PvmgXH/view)
+
 __BackEnd Developer's CV__: [here]([https://github.com/sum-greg/ChikChak-App/tree/main](https://drive.google.com/file/d/13fiAEVLnBFVWSNjxdMIs-QroZ1NjoA9Y/view)
 
 ---
