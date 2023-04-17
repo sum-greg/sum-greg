@@ -6,9 +6,7 @@
 
 # 👋 Hello!
 
-My name is __Grigory Sumlinsky__ (rus. Григорий Сумлинский). I have been a __Python developer__ for more than 2 years, and recently I have been developing in two more promising areas:
-- __Swift development__, especially mobile applications, as I'm sure that this profession will not lose its relevance for many more years, because most of our lives we solve problems by using our smartphones.
-- __Data Science__, because I believe that we receive a huge amount of information every day, so we need specialists to structure and analyze big data.
+My name is __Grigory Sumlinsky__ (rus. Григорий Сумлинский). I have been a __Python developer__ for more than 2 years, and recently I have been developing in __Swift development__, especially mobile applications, as I'm sure that this profession will not lose its relevance for many more years, because most of our lives we solve problems by using our smartphones.
 
 ---
 
@@ -39,12 +37,13 @@ __WHATSAPP__: +7 (981) 752-58-51
   - Swift, 
   - HTML (jinja), CSS
 - __Databases__: 
+  - Firebase, CoreData, UserDefaults,
   - SQL, 
   - Django ORM, 
-  - SQLite, PostgreSQL
+  - SQLite, PostgreSQL,
 - __Frameworks__: 
   - Django, Django REST Framework, 
-  - UIKit and others
+  - UIKit, Foundation, Alamofire, SpriteKit,
 - __Testing tools__: 
   - PyTest, 
   - Selenium
@@ -55,6 +54,8 @@ __WHATSAPP__: +7 (981) 752-58-51
 - __Data science__: 
   - NumPy, Pandas, Matplotlib
 - __Other__: 
+  - MVP and MVVM patterns,
+  - CocoaPods
   - Object-oriented programming, 
   - Google API, Telegram Bot, 
   - Bootstrap, 
