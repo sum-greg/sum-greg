@@ -24,16 +24,6 @@ __BackEnd Developer's CV__: [here](https://drive.google.com/file/d/13fiAEVLnBFVW
 
 ---
 
-### 👨‍💻 What can I do
-- [Swift | UIKit | Firebase](https://github.com/sum-greg/ChikChak-App/tree/main)
-
-- [Python | Telegram](https://github.com/sum-greg/testMyQiwiTelegramBot)
-- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoTestProject)
-- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoURLshortenerProject)
-- [Python | Django | HTML | Jinja | Bootstrap](https://github.com/sum-greg/blogTestProject)
-
----
-
 ### 🥷 Skills
 
 - __Programming languages__: 
@@ -67,6 +57,15 @@ __BackEnd Developer's CV__: [here](https://drive.google.com/file/d/13fiAEVLnBFVW
 - __My device__: 
   - MacBook Pro M1
 
+---
+
+### 👨‍💻 What can I do
+- [Swift | UIKit | Firebase](https://github.com/sum-greg/ChikChak-App/tree/main)
+- 
+- [Python | Telegram](https://github.com/sum-greg/testMyQiwiTelegramBot)
+- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoTestProject)
+- [Python | Django | Django REST Framework](https://github.com/sum-greg/djangoURLshortenerProject)
+- [Python | Django | HTML | Jinja | Bootstrap](https://github.com/sum-greg/blogTestProject)
 
 ---
 
