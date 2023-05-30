@@ -36,7 +36,7 @@ __BackEnd Developer's CV__: [here](https://drive.google.com/file/d/13fiAEVLnBFVW
   - Django ORM, 
   - SQLite, PostgreSQL,
 - __Frameworks__: 
-  - Django, Django REST Framework, 
+  - Django, Django REST Framework, FastAPI, 
   - UIKit, Foundation, Alamofire, SpriteKit,
 - __Testing tools__: 
   - PyTest, 
